@@ -1,2 +1,61 @@
-# algorithmsbook
-Preview of the textbook Algorithms for Decision Making
+# Algorithms for Decision Making
+*Mykel Kochenderfer, Tim Wheeler, and Kyle Wray*
+
+This book by provides a broad introduction to algorithms for decision making under uncertainty. We cover a wide variety of topics related to decision making, introducing the underlying mathematical problem formulations and the algorithms for solving them.
+
+Draft chapters will be released gradually for feedback. Please file issues for suggestions and comments (or email the address listed at the bottom of the pages of the PDF).
+
+## Outline
+
+1. Introduction
+
+### Part I: Probabilistic Reasoning
+
+2. Representation
+3. Inference
+4. Parameter Learning
+5. Structure Learning
+6. Simple Decisions
+
+### Part II: Sequential Problems
+
+7. Exact Solution Methods
+8. Approximate Value Functions
+9. Online Planning
+10. Policy Search
+11. Policy Gradient Estimation
+12. Policy Gradient Optimization
+13. Actor-Critic Methods
+14. Policy Validation
+
+### Part III: Model Unvertainty
+
+15. Exploration and Exploitation
+16. Model-Based Methods
+17. Model-Free Methods
+18. Imitation Learning
+
+### Part IV: State Uncertainty
+
+19. Beliefs
+20. Exact Belief State Planning
+21. Offline Belief State Planning
+22. Online Belief State Planning
+23. Controller Abstractions
+
+### Part V: Multiagent Systems
+
+24. Multiagent Reasoning
+25. Sequential Problems
+26. State Uncertainty
+27. Collaborative Agents
+
+### Appendices
+
+A. Mathematical Concepts
+B. Probability Distributions
+C. Computational Complexity
+D. Neural Representations
+E. Search Algorithms
+F. Problems
+G. Julia
