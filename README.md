@@ -52,10 +52,10 @@ Draft chapters will be released gradually for feedback. Please file issues for s
 
 ### Appendices
 
-A. Mathematical Concepts
-B. Probability Distributions
-C. Computational Complexity
-D. Neural Representations
-E. Search Algorithms
-F. Problems
-G. Julia
+28. A: Mathematical Concepts
+29. B: Probability Distributions
+30. C: Computational Complexity
+31. D: Neural Representations
+32. E: Search Algorithms
+33. F: Problems
+34. G: Julia
