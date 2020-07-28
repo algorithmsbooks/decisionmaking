@@ -58,4 +58,4 @@ Draft chapters will be released gradually for feedback. Please file issues for s
 31. D: Neural Representations
 32. E: Search Algorithms
 33. F: Problems
-34. G: Julia
+34. G: [Julia]((https://web.stanford.edu/group/sisl/public/dm/chapter-34.pdf)
