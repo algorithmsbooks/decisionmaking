@@ -7,7 +7,7 @@ Draft chapters will be released gradually for feedback. Please file issues for s
 
 ## Outline
 
-1. Introduction
+1. [Introduction](https://web.stanford.edu/group/sisl/public/dm/chapter-1.pdf)
 
 ### Part I: Probabilistic Reasoning
 
