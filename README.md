@@ -11,7 +11,7 @@ Draft chapters will be released gradually for feedback. Please file issues for s
 
 ### Part I: Probabilistic Reasoning
 
-2. Representation
+2. [Representation](https://web.stanford.edu/group/sisl/public/dm/chapter-2.pdf)
 3. Inference
 4. Parameter Learning
 5. Structure Learning
