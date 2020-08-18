@@ -5,6 +5,14 @@ This book by provides a broad introduction to algorithms for decision making und
 
 Draft chapters will be released gradually for feedback. Please file issues for suggestions and comments (or email the address listed at the bottom of the pages of the PDF).
 
+We are interested in all forms of feedback including, but not limited to:
+1. Errors
+2. Improvements to code (especially improvements for clarity over speed)
+3. Typos
+4. Areas that are confusing
+5. Critical topics that are missing
+6. Ideas for examples or exercises
+
 ## Outline
 
 1. [Introduction](https://web.stanford.edu/group/sisl/public/dm/chapter-1.pdf)
