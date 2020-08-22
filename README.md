@@ -20,7 +20,7 @@ We are interested in all forms of feedback including, but not limited to:
 ### Part I: Probabilistic Reasoning
 
 2. [Representation](https://web.stanford.edu/group/sisl/public/dm/chapter-2.pdf)
-3. Inference
+3. [Inference](https://web.stanford.edu/group/sisl/public/dm/chapter-3.pdf)
 4. Parameter Learning
 5. Structure Learning
 6. Simple Decisions
