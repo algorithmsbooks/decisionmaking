@@ -21,13 +21,13 @@ We are interested in all forms of feedback including, but not limited to:
 
 2. [Representation](https://web.stanford.edu/group/sisl/public/dm/chapter-2.pdf)
 3. [Inference](https://web.stanford.edu/group/sisl/public/dm/chapter-3.pdf)
-4. Parameter Learning
-5. Structure Learning
-6. Simple Decisions
+4. [Parameter Learning](https://web.stanford.edu/group/sisl/public/dm/chapter-4.pdf)
+5. [Structure Learning](https://web.stanford.edu/group/sisl/public/dm/chapter-5.pdf)
+6. [Simple Decisions](https://web.stanford.edu/group/sisl/public/dm/chapter-6.pdf)
 
 ### Part II: Sequential Problems
 
-7. Exact Solution Methods
+7. [Exact Solution Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-7.pdf)
 8. Approximate Value Functions
 9. Online Planning
 10. Policy Search
