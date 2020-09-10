@@ -1,7 +1,7 @@
 # Algorithms for Decision Making
 *Mykel Kochenderfer, Tim Wheeler, and Kyle Wray*
 
-This book by provides a broad introduction to algorithms for decision making under uncertainty. We cover a wide variety of topics related to decision making, introducing the underlying mathematical problem formulations and the algorithms for solving them.
+This book provides a broad introduction to algorithms for decision making under uncertainty. We cover a wide variety of topics related to decision making, introducing the underlying mathematical problem formulations and the algorithms for solving them.
 
 Draft chapters will be released gradually for feedback. Please file issues for suggestions and comments (or email the address listed at the bottom of the pages of the PDF).
 
