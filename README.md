@@ -60,10 +60,10 @@ We are interested in all forms of feedback including, but not limited to:
 
 ### Appendices
 
-28. A: Mathematical Concepts
-29. B: Probability Distributions
-30. C: Computational Complexity
+28. A: [Mathematical Concepts](https://web.stanford.edu/group/sisl/public/dm/chapter-28.pdf)
+29. B: [Probability Distributions](https://web.stanford.edu/group/sisl/public/dm/chapter-29.pdf)
+30. C: [Computational Complexity](https://web.stanford.edu/group/sisl/public/dm/chapter-30.pdf)
 31. D: Neural Representations
 32. E: Search Algorithms
-33. F: Problems
+33. F: [Problems](https://web.stanford.edu/group/sisl/public/dm/chapter-33.pdf)
 34. G: [Julia](https://web.stanford.edu/group/sisl/public/dm/chapter-34.pdf)
