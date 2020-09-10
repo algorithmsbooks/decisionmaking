@@ -28,7 +28,7 @@ We are interested in all forms of feedback including, but not limited to:
 ### Part II: Sequential Problems
 
 7. [Exact Solution Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-7.pdf)
-8. Approximate Value Functions
+8. [Approximate Value Functions](https://web.stanford.edu/group/sisl/public/dm/chapter-8.pdf)
 9. Online Planning
 10. Policy Search
 11. Policy Gradient Estimation
