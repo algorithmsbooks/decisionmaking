@@ -36,7 +36,7 @@ We are interested in all forms of feedback including, but not limited to:
 13. Actor-Critic Methods
 14. Policy Validation
 
-### Part III: Model Unvertainty
+### Part III: Model Uncertainty
 
 15. Exploration and Exploitation
 16. Model-Based Methods
