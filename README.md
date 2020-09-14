@@ -38,7 +38,7 @@ We are interested in all forms of feedback including, but not limited to:
 
 ### Part III: Model Uncertainty
 
-15. Exploration and Exploitation
+15. [Exploration and Exploitation](https://web.stanford.edu/group/sisl/public/dm/chapter-15.pdf)
 16. Model-Based Methods
 17. Model-Free Methods
 18. Imitation Learning
