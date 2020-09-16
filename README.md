@@ -64,6 +64,6 @@ We are interested in all forms of feedback including, but not limited to:
 29. B: [Probability Distributions](https://web.stanford.edu/group/sisl/public/dm/chapter-29.pdf)
 30. C: [Computational Complexity](https://web.stanford.edu/group/sisl/public/dm/chapter-30.pdf)
 31. D: Neural Representations
-32. E: Search Algorithms
+32. E: [Search Algorithms](https://web.stanford.edu/group/sisl/public/dm/chapter-32.pdf)
 33. F: [Problems](https://web.stanford.edu/group/sisl/public/dm/chapter-33.pdf)
 34. G: [Julia](https://web.stanford.edu/group/sisl/public/dm/chapter-34.pdf)
