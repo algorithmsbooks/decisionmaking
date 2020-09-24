@@ -29,7 +29,7 @@ We are interested in all forms of feedback including, but not limited to:
 
 7. [Exact Solution Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-7.pdf)
 8. [Approximate Value Functions](https://web.stanford.edu/group/sisl/public/dm/chapter-8.pdf)
-9. Online Planning
+9. [Online Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-9.pdf)
 10. Policy Search
 11. Policy Gradient Estimation
 12. Policy Gradient Optimization
@@ -39,7 +39,7 @@ We are interested in all forms of feedback including, but not limited to:
 ### Part III: Model Uncertainty
 
 15. [Exploration and Exploitation](https://web.stanford.edu/group/sisl/public/dm/chapter-15.pdf)
-16. Model-Based Methods
+16. [Model-Based Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-16.pdf)
 17. Model-Free Methods
 18. Imitation Learning
 
