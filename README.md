@@ -30,8 +30,8 @@ We are interested in all forms of feedback including, but not limited to:
 7. [Exact Solution Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-7.pdf)
 8. [Approximate Value Functions](https://web.stanford.edu/group/sisl/public/dm/chapter-8.pdf)
 9. [Online Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-9.pdf)
-10. Policy Search
-11. Policy Gradient Estimation
+10. [Policy Search](https://web.stanford.edu/group/sisl/public/dm/chapter-10.pdf)
+11. [Policy Gradient Estimation](https://web.stanford.edu/group/sisl/public/dm/chapter-11.pdf)
 12. Policy Gradient Optimization
 13. Actor-Critic Methods
 14. Policy Validation
