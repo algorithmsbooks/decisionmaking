@@ -32,7 +32,7 @@ We are interested in all forms of feedback including, but not limited to:
 9. [Online Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-9.pdf)
 10. [Policy Search](https://web.stanford.edu/group/sisl/public/dm/chapter-10.pdf)
 11. [Policy Gradient Estimation](https://web.stanford.edu/group/sisl/public/dm/chapter-11.pdf)
-12. Policy Gradient Optimization
+12. [Policy Gradient Optimization](https://web.stanford.edu/group/sisl/public/dm/chapter-12.pdf)
 13. Actor-Critic Methods
 14. Policy Validation
 
