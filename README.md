@@ -46,7 +46,7 @@ We are interested in all forms of feedback including, but not limited to:
 ### Part IV: State Uncertainty
 
 19. [Beliefs](https://web.stanford.edu/group/sisl/public/dm/chapter-19.pdf)
-20. Exact Belief State Planning
+20. [Exact Belief State Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-20.pdf)
 21. Offline Belief State Planning
 22. Online Belief State Planning
 23. Controller Abstractions
