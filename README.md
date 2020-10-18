@@ -40,7 +40,7 @@ We are interested in all forms of feedback including, but not limited to:
 
 15. [Exploration and Exploitation](https://web.stanford.edu/group/sisl/public/dm/chapter-15.pdf)
 16. [Model-Based Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-16.pdf)
-17. Model-Free Methods
+17. [Model-Free Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-17.pdf)
 18. Imitation Learning
 
 ### Part IV: State Uncertainty
