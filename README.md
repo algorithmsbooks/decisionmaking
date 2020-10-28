@@ -34,7 +34,7 @@ We are interested in all forms of feedback including, but not limited to:
 11. [Policy Gradient Estimation](https://web.stanford.edu/group/sisl/public/dm/chapter-11.pdf)
 12. [Policy Gradient Optimization](https://web.stanford.edu/group/sisl/public/dm/chapter-12.pdf)
 13. [Actor-Critic Methods](https://web.stanford.edu/group/sisl/public/dm/chapter-13.pdf)
-14. Policy Validation
+14. [Policy Validation](https://web.stanford.edu/group/sisl/public/dm/chapter-14.pdf)
 
 ### Part III: Model Uncertainty
 
@@ -47,7 +47,7 @@ We are interested in all forms of feedback including, but not limited to:
 
 19. [Beliefs](https://web.stanford.edu/group/sisl/public/dm/chapter-19.pdf)
 20. [Exact Belief State Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-20.pdf)
-21. Offline Belief State Planning
+21. [Offline Belief State Planning](https://web.stanford.edu/group/sisl/public/dm/chapter-21.pdf)
 22. Online Belief State Planning
 23. Controller Abstractions
 
