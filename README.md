@@ -53,7 +53,7 @@ We are interested in all forms of feedback including, but not limited to:
 
 ### Part V: Multiagent Systems
 
-24. Multiagent Reasoning
+24. [Multiagent Reasoning](https://web.stanford.edu/group/sisl/public/dm/chapter-24.pdf)
 25. Sequential Problems
 26. State Uncertainty
 27. Collaborative Agents
