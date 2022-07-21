@@ -14,3 +14,9 @@ We are interested in all forms of feedback including, but not limited to:
 6. Ideas for examples or exercises
 
 Book webpage: https://algorithmsbook.com
+
+## Errata
+
+### First printing
+
+* None yet!
