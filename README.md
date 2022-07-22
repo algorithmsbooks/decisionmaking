@@ -19,4 +19,4 @@ Book webpage: https://algorithmsbook.com
 
 ### First printing
 
-* None yet!
+* [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
