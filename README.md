@@ -19,4 +19,5 @@ Book webpage: https://algorithmsbook.com
 
 ### First printing
 
+* [p. 108] Ex 5.4: Make edge E->D in the PDAG directed (thanks to Nikhil Raghuraman)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
