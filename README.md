@@ -21,3 +21,4 @@ Book webpage: https://algorithmsbook.com
 
 * [p. 108] Ex 5.4: Make edge E->D in the PDAG directed (thanks to Nikhil Raghuraman)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
+* [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
