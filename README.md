@@ -20,6 +20,7 @@ Book webpage: https://algorithmsbook.com
 ### First printing
 
 * [p. 108] Ex 5.4: Make edge E->D in the PDAG directed (thanks to Nikhil Raghuraman)
+* [p. 157] Prob 7.9: Change solution to "then both policies are optimal" (thanks to Liam Kruse)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
