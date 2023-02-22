@@ -25,4 +25,5 @@ Book webpage: https://algorithmsbook.com
 * [p. 192] Ex 9.5: Change N(s0) to 1, as count is not incremented until after exploration (thanks to Paul Diederichs)
 * [p. 226] Fix intermediate derivation in equation in solution of Ex 10.1 (thanks to Paul Diederichs)
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
+* [p. 329] Eq 16.8: b in second P(s'|s,b,a) should be theta (thanks to Griffin Holt)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
