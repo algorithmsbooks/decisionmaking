@@ -20,6 +20,7 @@ Book webpage: https://algorithmsbook.com
 ### First printing
 
 * [p. 108] Ex 5.4: Make edge E->D in the PDAG directed (thanks to Nikhil Raghuraman)
+* [p. 121] Alg 6.2: Caption updated to reflect that algorithm returns the value of information (thanks to Griffin Holt) 
 * [p. 157] Ex 7.9: Change solution to "then both policies are optimal" (thanks to Liam Kruse)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
 * [p. 192] Ex 9.5: Change N(s0) to 1, as count is not incremented until after exploration (thanks to Paul Diederichs)
