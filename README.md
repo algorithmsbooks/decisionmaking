@@ -24,6 +24,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 157] Ex 7.9: Change solution to "then both policies are optimal" (thanks to Liam Kruse)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
 * [p. 192] Ex 9.5: Change N(s0) to 1, as count is not incremented until after exploration (thanks to Paul Diederichs)
+* [p. 199] Alg 9.9: P.S should be prepended with "π." (thanks to Griffin Holt)
 * [p. 226] Fix intermediate derivation in equation in solution of Ex 10.1 (thanks to Paul Diederichs)
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
 * [p. 307] Ex 15.3 curve was not plotted with the correct demoninator, causing the curve to be too low (thanks to Hugo Buurmeijer)
