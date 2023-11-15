@@ -30,6 +30,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
 * [p. 307] Ex 15.3 curve was not plotted with the correct demoninator, causing the curve to be too low (thanks to Hugo Buurmeijer)
 * [p. 314] Ex 15.7 values for arm 1 were fixed (thanks to Mykel)
+* [p. 317] Mention that when N(s,a) = 0, we can use a uniform distribution or set T(s,a) to zero (thanks to Mykel and Dylan Asmar)
 * [p. 329] Eq 16.8: b in second P(s'|s,b,a) should be theta (thanks to Griffin Holt)
 * [p. 330] Change the reference to Chapter 16 to be to Part 4 instead (thanks to Michael Sheehan)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
