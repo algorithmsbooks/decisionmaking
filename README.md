@@ -35,4 +35,5 @@ Book webpage: https://algorithmsbook.com
 * [p. 330] Change the reference to Chapter 16 to be to Part 4 instead (thanks to Michael Sheehan)
 * [p. 438] Fix weights calculation in Alg 21.9 (thanks to Tom-CCS)
 * [p. 461] Ex 22.5: change O(o2 | a3, s2) to O(o2 | a3, s1) (thanks to Dylan Asmar)
+* [p. 468] Prob 22.3: update to reflect use of successor state in observation func (thanks to Dylan Asmar)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
