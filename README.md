@@ -28,6 +28,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 199] Alg 9.9: P.S should be prepended with "π." (thanks to Griffin Holt)
 * [p. 226] Fix intermediate derivation in equation in solution of Ex 10.1 (thanks to Paul Diederichs)
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
+* [p. 304] Ex 15.2 pinned the RNG to produce the output expected in the exercise description (thanks to Appoorva Dixit)
 * [p. 307] Ex 15.3 curve was not plotted with the correct demoninator, causing the curve to be too low (thanks to Hugo Buurmeijer)
 * [p. 314] Ex 15.7 values for arm 1 were fixed (thanks to Mykel)
 * [p. 317] Mention that when N(s,a) = 0, we can use a uniform distribution or set T(s,a) to zero (thanks to Mykel and Dylan Asmar)
