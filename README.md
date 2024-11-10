@@ -27,6 +27,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 196] Ex 9.8: Change line plot colors to improve readability wrt color blindness (thanks to Zhen Wu)
 * [p. 199] Alg 9.9: P.S should be prepended with "π." (thanks to Griffin Holt)
 * [p. 226] Fix intermediate derivation in equation in solution of Ex 10.1 (thanks to Paul Diederichs)
+* [p. 207] Ex 9.11, for consistency, change the Gaussian to have N(s' | ...)
 * [p. 246] Ex 11.2 solution: "theh" should be "the" (thanks to Marc Schlicting)
 * [p. 265] Ex 12.3 Solution, first equation: change 0.3/0.3 to 0.3/0.2 (thanks to Asakura publishing)
 * [p. 269] Alg 13.1 caption, change ∇θ to ∇Uθ and ∇θ to ∇ℓϕ (thanks to Asakura publishing)
