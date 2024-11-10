@@ -34,6 +34,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 276] Note 6, 14th line: Change "Alpha Zero" to "AlphaGo Zero" (thanks to Asakura publishing)
 * [p. 278] Ex 13.2 (c)-(h): All instances of `l` should be `\ell` (thanks to Asakura publishing)
 * [p. 304] Ex 15.2 pinned the RNG to produce the output expected in the example description (thanks to Appoorva Dixit)
+* [p. 304] Ex 15.2 changed the model creation code to `model = BanditModel(fill(Beta(), 2))`
 * [p. 307] Ex 15.3 curve was not plotted with the correct demoninator, causing the curve to be too low (thanks to Hugo Buurmeijer)
 * [p. 314] Ex 15.7 values for arm 1 were fixed (thanks to Mykel)
 * [p. 317] Mention that when N(s,a) = 0, we can use a uniform distribution or set T(s,a) to zero (thanks to Mykel and Dylan Asmar)
