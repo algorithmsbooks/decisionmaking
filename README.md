@@ -19,6 +19,7 @@ Book webpage: https://algorithmsbook.com
 
 ### First printing
 
+* [p. 99] Sec 5.2: In the first paragraph, change 2.4 to 2.3 (thanks to Dylan Asmar)
 * [p. 108] Ex 5.4: Make edge E->D in the PDAG directed (thanks to Nikhil Raghuraman)
 * [p. 121] Alg 6.2: Caption updated to reflect that algorithm returns the value of information (thanks to Griffin Holt) 
 * [p. 157] Ex 7.9: Change solution to "then both policies are optimal" (thanks to Liam Kruse)
