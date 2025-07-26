@@ -51,5 +51,6 @@ Book webpage: https://algorithmsbook.com
 * [p. 468] Prob 22.3: update to reflect use of successor state in observation func (thanks to Dylan Asmar)
 * [p. 468] Ex 22.2 Solution: In the last column of the table's header row,  "o" should be "o_a" (thanks to Asakura publishing)
 * [p. 479] Alg 23.4: change comment "prune identical from previous nodes" to "prune identical from new nodes" (thanks to Emma Passmore)
+* [p. 527] Table 27.1: change "Dec-POMDP" to "Dec-MDP" in caption (thanks to Dylan Asmar)
 * [p. 585] Eq. D.6: change - to + (thanks to Jonathan Larkin)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
