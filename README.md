@@ -54,6 +54,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 468] Ex 22.2 Solution: In the last column of the table's header row,  "o" should be "o_a" (thanks to Asakura publishing)
 * [p. 473] Ex 23.2: drop reference to example 23.1 (thanks to Esen Yel)
 * [p. 479] Alg 23.4: change comment "prune identical from previous nodes" to "prune identical from new nodes" (thanks to Emma Passmore)
+* [p. 519] Sec. 25.2.1: Change "A response policy" to "A best response policy" (thanks to Esen Yel)
 * [p. 527] Table 27.1: change "Dec-POMDP" to "Dec-MDP" in caption (thanks to Dylan Asmar)
 * [p. 585] Eq. D.6: change - to + (thanks to Jonathan Larkin)
 * [p. 644] Sec. G.3.2: "x" in text should be "X" to be consistent with code (thanks to Ziyu Wang)
