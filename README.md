@@ -45,6 +45,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 329] Eq 16.8: b in second P(s'|s,b,a) should be theta (thanks to Griffin Holt)
 * [p. 330] Change the reference to Chapter 16 to be to Part 4 instead (thanks to Michael Sheehan)
 * [p. 382] Ex 19.2: change from "perfect observation" to "a more accurate observation" (thanks to Kathryn Lesh)
+* [p. 390] Sec 19.6: change O(o |a, s′) to O(o |a, s′_i) (thanks to Kaia Li)
 * [p. 405] Ex 19.17 Solution, last equation: All instances of `\sigma _{p}` should be bold (thanks to Asakura publishing)
 * [p. 414] Ex 20.2: 3rd line: Bolding the 'b' in `b = [0.5,0.5]` (thanks to Asakura publishing)
 * [p. 436] Update Sec. 21.6 and implementation of utility() in Alg. 21.9 (thanks to Shengtong Zhang)
