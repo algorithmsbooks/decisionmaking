@@ -28,6 +28,7 @@ Book webpage: https://algorithmsbook.com
 * [p. 140] Alg 7.5 Update `greedy` to reflect the fact that `findmax` returns an action index instead of an action (thanks to Jushua Darrow)
 * [p. 157] Ex 7.9: Change solution to "then both policies are optimal" (thanks to Liam Kruse)
 * [p. 174] Fig 8.13: Changed "polynomial" to "quadratic" (thanks to Balduin)
+* [p. 174] The singular value decomposition should be X = U S V* (thanks to Xingxin He)
 * [p. 192] Ex 9.5: Change N(s0) to 1, as count is not incremented until after exploration (thanks to Paul Diederichs)
 * [p. 196] Ex 9.8: Change line plot colors to improve readability wrt color blindness (thanks to Zhen Wu)
 * [p. 199] Alg 9.9: P.S should be prepended with "π." (thanks to Griffin Holt)
